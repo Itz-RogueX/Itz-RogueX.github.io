@@ -1,17 +1,5 @@
 # Calendar
 
-## September
+##Times
 
-TBA
-
-## October
-
-TBA
-
-## November
-
-TBA
-
-## December
-
-TBA
+I will try to upload every weekend from 6pm MTZ to 7pm MTZ.
