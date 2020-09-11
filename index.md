@@ -1,17 +1,17 @@
-#Calendar
+# Calendar
 
-##September
-
-TBA
-
-##October
+## September
 
 TBA
 
-##November
+## October
 
 TBA
 
-##December
+## November
+
+TBA
+
+## December
 
 TBA
